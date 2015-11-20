@@ -1,0 +1,22 @@
+<Gadget>
+    <UUID>1eeaf5a6-97d6-4341-8f43-4e482dca8acc</UUID>
+    <Name>ACSN</Name>
+    <LaunchCommand>https://acsn.curie.fr</LaunchCommand>
+    <IconPaths>
+        <Icon32Path>icons/acsn_icon.png</Icon32Path>
+    </IconPaths>
+    <Snapshots>
+        <SnapshotPath>snapshot/screen3.png</SnapshotPath>
+    </Snapshots>
+    <Categories>
+        <Category>Pathways</Category>
+        <Category>Visualization</Category>
+        <Category>Analytics</Category>
+        <Category>Database</Category>
+    </Categories>
+    <Provider>Computational Systems Biology of Cancer - Institut Curie - http://sysbio.curie.fr</Provider>
+    <Description>ACSN is a highly curated and original resource of cancer signaling maps and tools with interactive web-based environment for navigation, curation and data visualization. Cell signalling mechanisms are extracted from literature by experts and depicted on the maps at the level of biochemical interactions. ACSN consists in a growing list of 5 maps covering signalling processes involved in apoptosis, cell cycle, DNA repair, cell survival, EMT and cell motility. ACSN also includes a global map that integrates all the information from the 5 individual maps.</Description>
+    <LaunchEnv>
+        <Id>b62b11da-ff34-41d2-a99c-e5059bb1f611</Id>
+    </LaunchEnv>
+</Gadget>

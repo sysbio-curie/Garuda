@@ -1,0 +1,20 @@
+<Gadget>
+    <UUID>7cd77624-e6ed-47de-9d3b-0ed242be9129</UUID>
+    <Name>NaviCell</Name>
+    <LaunchCommand>https://navicell.curie.fr</LaunchCommand>
+    <IconPaths>
+        <Icon32Path>icons/navicell_icon.png</Icon32Path>
+    </IconPaths>
+    <Snapshots>
+        <SnapshotPath>snapshot/screen.png</SnapshotPath>
+    </Snapshots>
+    <Categories>
+        <Category>Visualization</Category>
+        <Category>Pathways</Category>
+    </Categories>
+    <Provider>Computational Systems Biology of Cancer - Institut Curie - http://sysbio.curie.fr</Provider>
+    <Description>NaviCell is a web-based environment for exploiting large maps of molecular interactions, allowing their easy exploration, curation and maintenance. It is characterized by a combination of four essential features: (1) efficient map browsing based on Google Maps, (2) semantic zooming for viewing different levels of details or of abstraction of the map, (3) integrated web-based blog for collecting community feedback and (4) integration into maps and analysis of any molecular data.</Description>
+    <LaunchEnv>
+        <Id>b62b11da-ff34-41d2-a99c-e5059bb1f611</Id>
+    </LaunchEnv>
+</Gadget>
